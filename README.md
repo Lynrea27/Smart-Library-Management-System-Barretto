@@ -14,4 +14,4 @@ Project Modules
 Development Team
 Student Name: Barretto, Realyn
 Course: System Integration and Architecture 1
-Section: BSIT-BA-2C
+Section: 2C
