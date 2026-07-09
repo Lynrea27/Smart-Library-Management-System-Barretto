@@ -1,4 +1,4 @@
-Smart Library Management System (SLMS)
+uSmart Library Management System (SLMS)
 
 Project Description
 The Smart Library Management System (SLMS) is a web-based application designed to automate library operations at ABC State University.
@@ -27,3 +27,4 @@ Features
 - Search Member
 
 
+Library Reports Module
