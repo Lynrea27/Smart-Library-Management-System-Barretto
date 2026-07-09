@@ -27,8 +27,3 @@ Features
 - Search Member
 
 
-Book Reservation Module
-
-- Reserve books online
-- View reservation status
-- Cancel reservations
