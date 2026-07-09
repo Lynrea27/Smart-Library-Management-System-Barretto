@@ -25,3 +25,10 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+
+Book Reservation Module
+
+- Reserve books online
+- View reservation status
+- Cancel reservations
